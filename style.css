@@ -1,0 +1,337 @@
+body{
+    margin:0;
+}
+.Condent{
+    width:100%;
+    height: 100px;
+    display:flex;
+    
+}
+.section1,.section2,.section3{
+    background-color: #404eed;
+    width: 300px;
+    height: 98px;
+    flex-direction: column;
+
+
+}
+.imagone{
+    width: 149px;
+    height: 53px;
+    padding-top: 12px;
+    margin-left: 25px;
+  
+}
+.section2{
+flex: 2;
+display: flex;
+flex-direction: row;
+justify-content:space-evenly;
+color:white;
+font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+h4{
+padding-right: 25px;
+padding-top: 10px;
+}
+#button{
+    border-radius: 27px;
+    margin-top: 21px;
+    margin-left: 170px;
+    border: 1px solid #404eed;
+    width: 67px;
+    height: 40px;
+}
+.condent2{
+    margin-top:-2px;
+    width: 100%;
+    height: 533px;
+    background-color: #404eed;
+
+}
+#frontimage{
+    padding-top: 50px;
+    width: 100%;
+    height: 460px;
+    margin-top: 23px
+}
+.condent3{
+    width: 100%;
+    height:650px;
+    display: flex;
+    
+}
+.one,.two{
+    width: 100%;
+    height: 600px;
+}
+.one{
+    width: 60%;
+    height: 100%;
+    padding-top: 127px;
+    padding-left: 50px;
+
+}
+.two{
+    font-size: 32px;
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-top: 114px;
+    padding-left: 116px;
+}
+#three{
+
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-size: 1px;
+  line-height: 1.625;
+  font-size: clamp(16px,2vw,20px);
+  padding-top: 0;
+  
+}
+.condent4{
+    width: 100%;
+    height:700px;
+    display: flex;
+    background-color:#F6F6F6;
+    
+}
+.three,.fours{
+
+        width: 100%;
+        height: 600px;
+}
+.three{
+    width: 40%;
+    height: 100%;
+    padding-top: 177px;
+    padding-left: 50px;
+    font-size: 32px;
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.four{
+    padding-top: 121px;
+    margin-left: -21px;
+}
+#four{
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 1px;
+    line-height:1.5;
+    font-size: clamp(16px,2vw,20px);
+    padding-top: 0;
+}
+.condent5{
+    width: 100%;
+    height: 750px;
+    display: flex;
+flex-direction:row-reverse;
+}
+.five,.six{
+    width: 100%;
+
+}
+.five{
+    width: 40%;
+    height: 100%;
+    padding-top: 165px;
+    padding-left: 115px;
+    font-size: 48px;
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+   
+}
+.six{
+    width:60%;
+    height: 100%;
+    font-size:48px;
+   padding-top:130px;
+   padding-left:50px;
+}
+#five{
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 1px;
+    line-height:1.5;
+    font-size: clamp(16px,2vw,20px);
+    margin-top:-40px;
+}
+.condent6{
+    width: 100%;
+    height: 750px;
+flex-direction:row-reverse;
+}
+.eight,.nine,.seven{
+    width: 100%;
+    height: 200%;
+    flex-direction: column;
+
+
+}
+.seven{
+ 
+    height: 25%;
+}
+
+.eight{
+height:100%;
+width: 100%;
+
+}
+
+.nine{
+    height: 100%;
+    
+
+}
+#seven{
+    padding-left: 145px;
+    font-size: 19px;
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+
+}
+.sevenone{
+    padding-left: 273px;
+    font-family:fantasy;
+    font-size: 50px;
+    line-height:1.7;
+
+}
+.eightimg{
+    width: 1189px;
+    padding-left: 28px;
+    padding-top: 10px;
+}
+#nine{
+    padding-left: 366px;
+    margin-top: 22px;
+}
+#ten{
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-size: 36px;
+    padding-left: 398px;
+    margin-top: -10px;
+}
+.download{
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color:rgb(88,101,242);
+    color: white;
+    border-radius: 89px;
+    width: 300px;
+    margin-left: 492px;
+    height: 55px;
+    margin-top: -4px;
+    font-size: 17px;
+}
+#download{
+    margin-left: 492px;
+    padding-top: 10px;
+
+}
+.footer{
+    margin-top: 400px;
+    width: 100%;
+
+}
+.footerone,.footertwo,.footerthree{
+    width: 100%;
+    height: 10px;
+    flex-direction:row;
+    border-radius: 5px;
+}
+.footerone{
+    display: flex;
+    width: 100%;
+height: 600px;
+background-color:rgb(35,39,42);
+font-family:fantasy;
+
+}
+.footertwo{
+width: 95%;
+height:1px;
+background-color:rgb(88,101,242);
+margin-left:30px;
+
+
+}
+.footerthree{
+    width: 100%;
+    background-color:rgb(35,39,42);
+
+}
+#kimg{
+    width: 30px;
+    margin-left: -208px;
+    padding-top: 278px;
+}
+.option{
+background-color:rgb(35,39,42);
+color:white;
+font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+    margin-left: -169px;
+    margin-top: 279px;
+    
+}
+.paraz{
+    color: #5865f2;
+    font-size: 49px;
+    padding-left: 45px;
+    padding-top: 92px;
+}
+.allimag{
+    display: flex;
+    flex-direction: row;
+    margin-top: 325px;
+    margin-left:-240px;
+    justify-content:space-evenly;
+
+}
+#imagecolor{
+    background-color:white;
+    
+} 
+.listone{
+    
+    font-size:15px;
+    color:white;
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+     padding-left:160px;
+     margin-top:130px;
+}.listtwo{
+    color:white; 
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-left:620px;
+    margin-top:-470px;
+    font-size:15px;
+}.listthree{
+    color:white;
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-left:820px;
+    margin-top:-173px;
+    font-size:15px;
+}
+.listfour{
+    color:white;
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    padding-left:1050px;
+    margin-top:-266px;
+    font-size:15px;
+}
+.heading{
+    color:rgb(88,101,242);
+}
+#discordimg{
+    padding-left: 35px;
+    padding-top: 26px;
+    width: 165px;
+    height: 40px;
+
+}
+#signup{
+        border-radius: 27px;
+    margin-left: 960px;
+    border: 1px solid #404eed;
+    width: 67px;
+    height: 40px;
+    background-color: #404eed;
+    color:white;
+}
