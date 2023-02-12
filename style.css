@@ -31,9 +31,10 @@ color:white;
 font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
 
 }
+
 h4{
-padding-right: 25px;
-padding-top: 10px;
+    padding-right: 25px;
+    padding-top: 10px;
 }
 #button{
     border-radius: 27px;
@@ -60,6 +61,7 @@ padding-top: 10px;
     width: 100%;
     height:650px;
     display: flex;
+    margin-left: 12.5%;
     
 }
 .one,.two{
@@ -82,10 +84,10 @@ padding-top: 10px;
 #three{
 
     font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
-  font-size: 1px;
-  line-height: 1.625;
-  font-size: clamp(16px,2vw,20px);
-  padding-top: 0;
+    font-size: 1px;
+    line-height: 1.625;
+    font-size: clamp(16px,2vw,20px);
+    padding-top: 0;
   
 }
 .condent4{
@@ -96,15 +98,15 @@ padding-top: 10px;
     
 }
 .three,.fours{
-
-        width: 100%;
-        height: 600px;
+    width: 100%;
+    height: 600px;
 }
 .three{
     width: 40%;
     height: 100%;
     padding-top: 177px;
-    padding-left: 50px;
+    padding-left: 150px;
+    margin-left: 150px;
     font-size: 32px;
     font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
@@ -155,14 +157,16 @@ flex-direction:row-reverse;
 .condent6{
     width: 100%;
     height: 750px;
-flex-direction:row-reverse;
+    flex-direction:row-reverse;
+    margin-left: 300px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
 }
 .eight,.nine,.seven{
     width: 100%;
     height: 200%;
     flex-direction: column;
-
-
 }
 .seven{
  
